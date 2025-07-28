@@ -9,9 +9,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/Josh](https://www.instagram.com/davidaluko_?igsh=OHR5cjV6bjA5YnM0&utm_source=qr
-[linkedin]: https://www.linkedin.com/in/david-aluko-390825135
+Linkedin: https://www.linkedin.com/in/david-aluko-390825135
